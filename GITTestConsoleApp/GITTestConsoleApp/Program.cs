@@ -14,6 +14,7 @@ namespace GITTestConsoleApp
             Console.WriteLine("This is a console app on git");
              Console.ReadLine();
             Console.Write("Hello");
+             Console.ReadLine();
         }
     }
 }
