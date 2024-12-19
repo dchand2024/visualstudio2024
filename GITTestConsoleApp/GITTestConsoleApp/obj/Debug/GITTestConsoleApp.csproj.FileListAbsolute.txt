@@ -1,0 +1,7 @@
+C:\Users\dchand\source\repos\GITTestConsoleApp\GITTestConsoleApp\bin\Debug\GITTestConsoleApp.exe.config
+C:\Users\dchand\source\repos\GITTestConsoleApp\GITTestConsoleApp\bin\Debug\GITTestConsoleApp.exe
+C:\Users\dchand\source\repos\GITTestConsoleApp\GITTestConsoleApp\bin\Debug\GITTestConsoleApp.pdb
+C:\Users\dchand\source\repos\GITTestConsoleApp\GITTestConsoleApp\obj\Debug\GITTestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\dchand\source\repos\GITTestConsoleApp\GITTestConsoleApp\obj\Debug\GITTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\dchand\source\repos\GITTestConsoleApp\GITTestConsoleApp\obj\Debug\GITTestConsoleApp.exe
+C:\Users\dchand\source\repos\GITTestConsoleApp\GITTestConsoleApp\obj\Debug\GITTestConsoleApp.pdb
