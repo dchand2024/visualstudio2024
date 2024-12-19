@@ -80,7 +80,7 @@ jobs:
 
     # Restore the application to populate the obj folder with RuntimeIdentifiers
     - name: Restore the application
-      run: msbuild visualstudio2024/GITTestConsoleApp/GITTestConsoleApp.sln /t:Restore /p:ConfigurationRelease
+      run: msbuild ./GITTestConsoleApp/GITTestConsoleApp.sln /t:Restore /p:ConfigurationRelease
       env:
         Configuration: ${{ matrix.configuration }}
 
